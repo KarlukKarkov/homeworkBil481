@@ -1,1 +1,1 @@
-web: java -jar target/myDemoApp-1.0-SNAPSHOT.jar
+web: java -jar target/homeworkBil481-1.0-SNAPSHOT.jar
